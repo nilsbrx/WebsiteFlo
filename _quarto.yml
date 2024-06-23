@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nils Brökemeier"
+  favicon: input/favicon.png
+  sidebar: 
+    style: "floating"
+    search: TRUE
+    tools: 
+      - icon: link-45deg
+        menu: 
+          - text: My PEVZ
+            href: https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp;jsessionid=FE0C9B8A5CC8E43B2E4AE0D7B534A021?personId=279287392
+          - text: Faculty of Physics
+            href: https://www2.physik.uni-bielefeld.de/5090.html
+      - icon: linkedin 
+    contents: 
+    - index.qmd
+    - about.qmd
+    - teaching.qmd
+  #navbar:
+  #  search: false
+   # left:
+   #   - href: index.qmd
+   #     text: Home
+   #   - href: about.qmd
+   #     text: about
+   #   - href: teaching.qmd
+   #     text: teaching
+      
+
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 1700px
+      margin-width: 300px
+      gutter-width: 1.15rem
+    theme: 
+         dark: [cosmo, theme-dark.scss]
+         light: cosmo
+        #.  light: cosmo #[flatly, light.scss]
+           #. dark:   #[darkly, dark.scss]   #theme: cosmo
+    #css: styles.css
+    page-layout: article
+    toc: true
+    toc-depth: 3
+    toc-title: On this page
+    fontsize: 12pt
+
+editor: visual
+
