@@ -6,6 +6,8 @@ title: ""
 
 testtest
 
+this is my website
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Siehe [PEVZ-Florian.Brökemeier](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=279287392) für Kontakt.
@@ -17,3 +19,5 @@ ggplot(mtcars)+
   geom_point(aes(x=mpg, y= qsec))
 head(mtcars)
 ```
+
+$link-color:                              darken($body-color, 30%) !default; $link-color:                              lighten($body-color, 30%) !default;

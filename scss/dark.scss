@@ -6,8 +6,8 @@ $headings-color:                          $body-color !default;
 $code-block-bg:                           lighten($body-bg, 3%) !default;
 $navbar-bg:                               $body-bg !default;
 
-$link-color:                              darken($body-color, 30%) !default;
-$link-shade-percentage:                   15% !default;
+$link-color: #3366FF;
+$link-shade-percentage:                   30% !default;
 $link-hover-color:                        shift-color($link-color, $link-shade-percentage) !default;
 
 $code-color:                              darken($body-color, 10%) !default;
