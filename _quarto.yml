@@ -32,16 +32,7 @@ website:
       - icon: book
         href: teaching.qmd
         text: Teaching
-    tools: 
-      - icon: link-45deg
-        menu: 
-          - text: My PEVZ
-            href: https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp;jsessionid=FE0C9B8A5CC8E43B2E4AE0D7B534A021?personId=279287392
-          - text: Faculty of Physics
-            href: https://www2.physik.uni-bielefeld.de/5090.html
-      - icon: linkedin 
-      
-
+  
 format:
   html:
     theme: 
