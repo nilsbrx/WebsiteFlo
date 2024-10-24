@@ -21,7 +21,7 @@ about:
       aria-label: CV
     - text: "My PEVZ" 
       icon: link-45deg
-      href: https://scholar.google.com/citations?hl=de&user=k9n1yt4AAAAJ
+      href: https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=279287392
     - text: "{{< iconify uil:university >}} Faculty of Physics"
       href: https://www2.physik.uni-bielefeld.de/5090.html
       #icon: link-45deg 
