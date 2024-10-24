@@ -1,5 +1,36 @@
 ---
-title: ""
+title: "Florian Brökemeier"
+image: input/Flo.png
+toc: false
+about: 
+  template: broadside
+  image-shape: round
+  image-width: 5em
+  links:
+    #- text: "{{< fa brands x-twitter >}} X"
+      #href: https://x.com/l_oelschlaeger
+      #aria-label: X
+    - text: GitHub
+      href: https://github.com/nilsbrx
+      icon: github
+      aria-label: GitHub
+    - text: Email
+      href: mailto:florian.broekemeier@uni-bielefeld.de
+      icon: envelope
+      aria-label: Email
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?hl=de&user=k9n1yt4AAAAJ
+      aria-label: Google Scholar
+    - text: "{{< ai cv >}}Vita"
+      href: https://loelschlaeger.de/cv
+      aria-label: CV
+    - text: "My PEVZ" 
+      icon: link-45deg
+      href: https://scholar.google.com/citations?hl=de&user=k9n1yt4AAAAJ
+    - text: Faculty of Physics
+      href: https://www2.physik.uni-bielefeld.de/5090.html
+      icon: link-45deg 
+comments: false
 ---
 
 # Nils Brökemeier

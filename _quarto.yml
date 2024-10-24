@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: ""
-  favicon: input/favicon.png
+  title: "Florian Brökemeier"
+  #favicon: input/favicon.png
   #sidebar: 
   #  style: "floating"
   #  search: TRUE
@@ -22,13 +22,15 @@ website:
   #  - teaching.qmd
   navbar:
   #  search: false
-    right:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: about
-      - href: teaching.qmd
-        text: teaching
+    left:
+      #- href: index.qmd
+       # text: Home
+      - icon: search
+        href: research.qmd
+        text: Research
+      - icon: book
+        href: teaching.qmd
+        text: Teaching
     tools: 
       - icon: link-45deg
         menu: 
@@ -41,14 +43,19 @@ website:
 
 format:
   html:
-    grid:
-    #  sidebar-width: 250px
-      body-width: 1000px
-    #  margin-width: 300px
-    #  gutter-width: 1.15rem
     theme: 
       light: [flatly, scss/light.scss]
       dark: [darkly, scss/dark.scss]
+      #light: simplex
+      #dark: simlex
+    grid:
+            #  sidebar-width: 250px
+      body-width: 1000px
+            #  margin-width: 300px
+            #  gutter-width: 1.15rem
+    #theme: 
+     # light: [flatly, scss/light.scss]
+      #dark: [darkly, scss/dark.scss]
     css: scss/styles.css
          #dark: [cosmo, theme-dark.scss]
          #light: cosmo
@@ -56,6 +63,8 @@ format:
            #. dark:   #[darkly, dark.scss]   #theme: cosmo
     #css: styles.css
     page-layout: article
+    link-external-icon: true
+    
    
     fontsize: 12pt
 
