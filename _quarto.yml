@@ -5,7 +5,7 @@ project:
 website:
   cookie-consent: true
   title: "Florian Brökemeier"
-  favicon: input/faviflo.png
+  favicon: input/faviflo.png 
   #sidebar: 
   #  style: "floating"
   #  search: TRUE
