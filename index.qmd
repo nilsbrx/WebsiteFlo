@@ -1,15 +1,12 @@
 ---
 title: "Florian Brökemeier"
-image: input/Flo.png
+image: input/flonils.jpg
 toc: false
 about: 
-  template: broadside
-  image-shape: round
-  image-width: 5em
+  template: solana
+  image-shape: rectangle
+  image-width: 20em
   links:
-    #- text: "{{< fa brands x-twitter >}} X"
-      #href: https://x.com/l_oelschlaeger
-      #aria-label: X
     - text: GitHub
       href: https://github.com/nilsbrx
       icon: github
@@ -18,18 +15,16 @@ about:
       href: mailto:florian.broekemeier@uni-bielefeld.de
       icon: envelope
       aria-label: Email
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com/citations?hl=de&user=k9n1yt4AAAAJ
-      aria-label: Google Scholar
-    - text: "{{< ai cv >}}Vita"
-      href: https://loelschlaeger.de/cv
+    - text: "{{< ai cv >}} Vita" #academicons
+      #text: "{{< iconify pepicons-pencil:cv >}} cv"
+      #href: 
       aria-label: CV
     - text: "My PEVZ" 
       icon: link-45deg
       href: https://scholar.google.com/citations?hl=de&user=k9n1yt4AAAAJ
-    - text: Faculty of Physics
+    - text: "{{< iconify uil:university >}} Faculty of Physics"
       href: https://www2.physik.uni-bielefeld.de/5090.html
-      icon: link-45deg 
+      #icon: link-45deg 
 comments: false
 ---
 

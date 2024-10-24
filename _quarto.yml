@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  cookie-consent: true
   title: "Florian Brökemeier"
   #favicon: input/favicon.png
   #sidebar: 
@@ -46,7 +47,7 @@ format:
     theme: 
       light: [flatly, scss/light.scss]
       dark: [darkly, scss/dark.scss]
-      #light: simplex
+      # simplex
       #dark: simlex
     grid:
             #  sidebar-width: 250px
