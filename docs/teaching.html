@@ -150,6 +150,18 @@ cookieconsent.run({
 
 
 </main> <!-- /main -->
+<div id="last-updated" style="text-align: center; font-size: 0.9em; color: gray; margin-top: 2em; border-top: 1px solid lightgray; padding-top: 1em;">
+    <!-- Dynamisches Datum wird hier eingefügt -->
+  </div>
+  
+  <script>
+    const footerText = `Last updated on ${new Date().toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    })}. © Florian Brökemeier 2000–${new Date().getFullYear()}.`;
+    document.getElementById('last-updated').textContent = footerText;
+  </script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
