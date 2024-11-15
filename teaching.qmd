@@ -1,5 +1,22 @@
 ---
-title: ""
+title: "My teaching"
+subtitle: "A collection of materials for my teaching"
+listing:
+  type: default
+  image-height: 285px
+  filter-ui: true
+  contents:
+    - title: "Physik Grundpraktikum"
+      #path: https://github.com/loelschlaeger/mikro_oeko
+      image: /input/labor.png
+      description: "In the Physics lab course, students apply fundamental physics concepts through hands-on experiments. They conduct measurements, analyze data, and gain practical experience with scientific equipment, deepening their understanding of physical phenomena."
+      categories: [german, bachelor]
+
+comments: false
 ---
 
-ivcluc
+::: callout-caution
+## Work in progress
+
+I am currently working on this page, please come back later.
+:::

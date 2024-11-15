@@ -3,8 +3,8 @@ title: "Florian Brökemeier"
 image: input/flonils.jpg
 toc: false
 about: 
-  template: solana
-  image-shape: rectangle
+  template: jolla
+  image-shape: round
   image-width: 20em
   links:
     - text: GitHub
@@ -28,22 +28,4 @@ about:
 comments: false
 ---
 
-# Nils Brökemeier
-
-hallo test test tg
-
-this is my website
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-Siehe [PEVZ-Florian.Brökemeier](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=279287392) für Kontakt.
-
-```{r}
-str(mtcars)
-library(ggplot2)
-ggplot(mtcars)+
-  geom_point(aes(x=mpg, y= qsec))
-head(mtcars)
-```
-
-$link-color:                              darken($body-color, 30%) !default; $link-color:                              lighten($body-color, 30%) !default;
+Hi I'm Florian. I am a Master’s student in Physics at the University of Bielefeld. I enjoy quantum physics, computing, and lab experiments. Currently, I am spending my time working on my Master’s thesis in…
