@@ -1,0 +1,21 @@
+---
+title: "My projects"
+subtitle: "An overview of my current projects"
+listing:
+  type: grid
+  image-height: 285px
+  filter-ui: true
+  contents:
+    - title: "Alternating optimization"
+      path: https://loelschlaeger.de/ao/
+      image: /files/images/ao_sticker.png
+      description: "Alternating optimization is an iterative procedure that optimizes a function by alternately performing restricted optimization over individual parameter subsets."
+      categories: [R package]
+comments: false
+---
+
+::: callout-caution
+## Work in progress
+
+I am currently working on this page, please come back later.
+:::

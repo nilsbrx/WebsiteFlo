@@ -32,6 +32,9 @@ website:
       - icon: book
         href: teaching.qmd
         text: Teaching
+      - icon: code-slash
+        href: projects.qmd
+        text: Projects
   
 format:
   html:
@@ -61,5 +64,6 @@ format:
     fontsize: 12pt
 
 editor: visual
-date-modified: today
+
+
 

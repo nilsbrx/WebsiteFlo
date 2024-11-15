@@ -47,3 +47,4 @@ head(mtcars)
 ```
 
 $link-color:                              darken($body-color, 30%) !default; $link-color:                              lighten($body-color, 30%) !default;
+
