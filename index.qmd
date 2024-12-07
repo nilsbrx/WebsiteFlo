@@ -1,6 +1,6 @@
 ---
 title: "Florian Brökemeier"
-image: input/flonils.jpg
+image: input/Flobild.jpeg
 toc: false
 about: 
   template: jolla
