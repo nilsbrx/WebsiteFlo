@@ -11,11 +11,19 @@ I am currently working on this page, please come back later.
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #16A2F3" appearance="minimal"}
-## Bayesian discrete choice modeling
+## Quantum Many-Body Physics and Quantum Computing Research at Bielefeld University
+
+[We](https://www.physik.uni-bielefeld.de/~crobin/) are working on the development of methods for solving the quantum many-body problem, in order to describe the structure and dynamics of strongly-interacting systems, in particular atomic nuclei.
+
+We are particularly interested in studying the role of entanglement in nuclear structure and nuclear processes, and in the development of entanglement-driven methods and algorithms for classical and quantum simulations of nuclei.
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #16A2F3" appearance="minimal"}
-## Initializing numerical optimization
+## Quantum Magic and Multi-Partite Entanglement in the Structure of Nuclei
+
+Motivated by the Gottesman-Knill theorem, we present a detailed study of the quantum complexity of p-shell and sd-shell nuclei.
+
+![](input/Quantum_Magic.png){fig-align="center" width="700"}
 :::
 
 ::: {.callout-note collapse="true" style="border-left-color: #16A2F3" appearance="minimal"}
