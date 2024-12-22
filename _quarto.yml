@@ -60,7 +60,7 @@ format:
     page-layout: article
     link-external-icon: true
     fontsize: 12pt
-footer: "`r paste0('Last updated on ', Sys.Date(), '. © Julian Hinz 1987–', format(Sys.Date(), '%Y'), '.')`"
+footer: "`r paste0('Last updated on ', Sys.Date(), '. © Florian Brökemeier 2000–', format(Sys.Date(), '%Y'), '.')`"
 
 editor: visual
 
