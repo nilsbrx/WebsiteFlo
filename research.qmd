@@ -13,7 +13,7 @@ I am currently working on this page, please come back later.
 ::: {.callout-note collapse="true" style="border-left-color: #16A2F3" appearance="minimal"}
 ## Quantum Magic and Multi-Partite Entanglement in the Structure of Nuclei
 
-Motivated by the Gottesman-Knill theorem, [we](https://www.physik.uni-bielefeld.de/~crobin/) present a detailed study of the [quantum complexity of p-shell and sd-shell nuclei](https://arxiv.org/pdf/2409.12064).
+Motivated by the Gottesman-Knill theorem, [we](https://www.physik.uni-bielefeld.de/~crobin/) present a detailed study of the [quantum complexity of p-shell and sd-shell nuclei](#https://arxiv.org/pdf/2409.12064).
 
 ![](input/Quantum_Magic.png){fig-align="center" width="700"}
 :::
