@@ -6,11 +6,11 @@ listing:
   image-height: 285px
   filter-ui: true
   contents:
-    - title: "Alternating optimization"
+    - title: ""
       #path: https://loelschlaeger.de/ao/
       #image: /files/images/ao_sticker.png
-      description: "Alternating optimization is an iterative procedure that optimizes a function by alternately performing restricted optimization over individual parameter subsets."
-      categories: [R package]
+      #description: "Alternating optimization is an iterative procedure that optimizes a function by alternately performing restricted optimization over individual parameter subsets."
+      #categories: [R package]
 comments: false
 ---
 
