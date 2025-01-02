@@ -11,10 +11,10 @@ about:
       href: https://github.com/nilsbrx
       icon: github
       aria-label: GitHub
-    - text: Email
-      href: mailto:florian.broekemeier@uni-bielefeld.de
-      icon: envelope
-      aria-label: Email
+   # - text: Email
+   #   href: mailto:florian.broekemeier@uni-bielefeld.de
+   #   icon: envelope
+   #   aria-label: Email
     - text: "{{< ai cv >}} Vita" #academicons
       #text: "{{< iconify pepicons-pencil:cv >}} cv"
       #href: 
